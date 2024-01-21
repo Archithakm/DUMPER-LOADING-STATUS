@@ -1,4 +1,4 @@
-SIH 1314 -Real-time visibility of Dumper load status to Shovel operator
+Real-time visibility of Dumper load status to Shovel operator
 
 **Challenge Description:** In large-scale mining, shovel operators are responsible for loading materials onto dumpers. However, the lack of real-time visibility regarding the load status of dumpers often leads to inefficiencies and delays in the overall workflow. Currently, shovel operators rely on manual communication or visual cues to determine whether a dumper is ready for loading or its loading has been completed. The challenge is to create a system that provides shovel operators with instant and accurate information about the load status of dumpers, eliminating the need for manual communication and improving the efficiency of the operation. The solution should leverage real-time data from sensors or other reliable sources to deliver timely updates to shovel operators, enabling them to make informed decisions and optimize their loading process. 
 
