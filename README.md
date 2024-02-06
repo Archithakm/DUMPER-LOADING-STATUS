@@ -13,3 +13,6 @@ Data Integration: Create a system that seamlessly integrates with existing infra
 Scalability and Robustness: Develop a solution that can handle a large number of dumpers simultaneously and is capable of operating reliably in challenging environments. Consider factors such as connectivity issues, data synchronization, and potential disruptions in the mining site. 
 
 Security and Privacy: Implement appropriate security measures to protect the system from unauthorized access and ensure the privacy of sensitive data. Consider encryption, authentication, and other relevant security practices to safeguard the system and maintain data integrity. By addressing these aspects, the proposed solution should enhance the productivity and efficiency of shovel operators, reduce downtime caused by miscommunication or delays, and ultimately optimize the loading process in mining operations.
+
+
+https://drive.google.com/file/d/1No6rFM1Y9EknFmkfYSQPkfYSgYMUlDmB/view?usp=sharing
